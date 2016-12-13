@@ -1,1 +1,5 @@
-GitHub es una plataforma de código de alojamiento para el control de versiones y la colaboración. Se le permite y otros trabajan juntos en proyectos desde cualquier lugar.
+GitHub es una plataforma de cÃ³digo de alojamiento para el control de versiones y la colaboraciÃ³n. Se le permite y otros trabajan juntos en proyectos desde cualquier lugar.
+
+nuevo tipo de archivo de txt
+
+
